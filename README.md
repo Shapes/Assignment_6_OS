@@ -1,4 +1,5 @@
-Izziv6
+School challenge 
+
 ======
 
-Izziv 6 pri OS.
+assignment 
